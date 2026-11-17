@@ -3,7 +3,7 @@ name = "SigmaOS-etc-group"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "etc-group component"
+description = "etc group"
 upstream = []
 
 [contract]
